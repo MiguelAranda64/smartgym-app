@@ -1,0 +1,559 @@
+{
+    "exercises": [
+      {
+        "bodyPart": "Antebrazos",
+        "routine": [
+          {
+            "name": "Chin Ups",
+            "difficulty": "intermedio",
+            "steps": [
+              "Agarre la barra separada a la anchura de los hombros con un agarre en posición supina (las palmas hacia usted)",
+              "Con el cuerpo colgando y los brazos completamente extendidos, levántese hasta que la barbilla pase la barra..",
+              "Vuelva lentamente a la posición inicial. Repetir."
+            ],
+            "img":"../img/chinups.png"
+          },
+          {
+            "name": "Curl de muñeca con mancuernas",
+            "difficulty": "Principiante",
+            "steps": [
+              "Toma la mancuerna con la palma de la mano hacia arriba y el antebrazo apoyado contra el banco.",
+              "Lentamente doble su muñeca hacia arriba en un movimiento semicircular.",
+              "Vuelve a la posición inicial y repite."
+            ],
+            "img": "curlmumancuerna.jpg"
+          },
+          {
+            "name": "Remo con mancuernas unilateral",
+            "difficulty": "Principiante",
+            "steps": [
+              "Apoye su brazo libre contra algo estable (banco, caja). Cambie su postura para que su pierna del lado de su brazo de trabajo quede hacia atrás",
+              "Intenta que tu torso quede paralelo al suelo. Eso ampliará tu rango de movimiento",
+              "Deja que tu brazo cuelgue libremente y luego tira del codo hacia atrás. Imagina que tienes una pelota de tenis en la axila y apriétala en cada repetición"
+            ],
+            "img":"remomancuernauni.png"
+          }
+        ]
+      },
+      {
+        "bodyPart": "Bicep",
+        "routine": [
+          {
+            "name": "Curl con barra",
+            "difficulty": "Principiante",
+            "steps": [
+              "Mientras mantiene la parte superior de los brazos estacionaria, enrolle las pesas hacia adelante mientras contrae los bíceps mientras exhala",
+              "Continúa el movimiento hasta que tus bíceps estén completamente contraídos y la barra esté a la altura de los hombros.",
+              "Mantén la posición contraída por un segundo y aprieta fuerte los bíceps.",
+              "Lleva el peso lentamente a la posición inicial"
+            ],
+            "img": "curlbarra.jpg"
+          },
+          {
+            "name": "Chin Ups",
+            "difficulty": "intermedio",
+            "steps": [
+              "Toma la barra separada al ancho de los hombros con un agarre en supinación (palmas hacia ti)",
+              "Con el cuerpo colgando y los brazos completamente extendidos, levántese hasta que la barbilla sobrepase la barra",
+              "Regresa lentamente a la posición inicial. Repite"
+            ],
+            "img": "chinups2.jpg"
+          },
+          {
+            "name": "Curl martillo con mancuernas",
+            "difficulty": "Principiante",
+            "steps": [
+              "Sujeta las mancuernas con un agarre neutral (pulgares hacia el techo).",
+              "Levanta lentamente la mancuerna hasta la altura del pecho",
+              "Vuelve a la posición inicial y repite."
+            ],
+            "img": "curlmartillomancuerna.png"
+          }
+        ]
+      },
+      {
+        "bodyPart": "Hombros",
+        "routine": [
+          {
+            "name": "Press por encima de la cabeza con barra",
+            "difficulty": "intermedio",
+            "steps": [
+              "Tome un agarre más o menos al ancho de los hombros. Debe haber una línea recta desde el codo hasta el puño (antebrazos verticales).",
+              "Tire de la barbilla hacia atrás y presione el peso hacia el techo extendiendo la articulación del codo y flexionando la articulación del hombro.",
+              "Presiona hasta que tus codos estén extendidos y empuja tu cabeza ligeramente hacia adelante.",
+              "Vuelve a la posición inicial con control. Tirando de la barbilla hacia atrás para permitir que la barra pase por tu cara de forma segura."
+            ],
+            "img": "presscabezabarra.jpg"
+          },
+          {
+            "name": "Press por encima de la cabeza sentado con mancuernas",
+            "difficulty": "principiante",
+            "steps": [
+              "Siéntate en un banco con respaldo. Levanta las mancuernas a la altura de los hombros con las palmas de las manos hacia adelante.",
+              "Raise the dumbbells upwards and pause at the contracted position.",
+              "Baje las pesas a la posición inicial."
+            ],
+            "img": "pressencimacabezasentadomancuernas.jpg"
+          },
+          {
+            "name": "Elevación lateral con cable",
+            "difficulty": "experto",
+            "steps": [
+              "Use un accesorio de manija con el cable colocado hasta el fondo de la máquina.",
+              "Debe abducir verticalmente el hombro levantando el brazo hacia un lado.",
+              "Levanta hasta que tu brazo esté paralelo al suelo y luego vuelve a la posición inicial."
+            ],
+            "img": "elevacionlateralcable.jpg"
+          }
+        ]
+      },
+      {
+        "bodyPart": "Trapecio",
+        "routine": [
+          {
+            "name": "Encogimiento de hombros sentado con mancuernas",
+            "difficulty": "intermedio",
+            "steps": [
+              "Siéntese en un banco con mancuernas en ambas manos, con las palmas hacia el cuerpo y la espalda recta.",
+              "Eleve los hombros y mantenga la posición contraída en el vértice del movimiento.",
+              "Baje lentamente los hombros a la posición inicial."
+            ],
+            "img": "encogimientohombrosmancuerna.png"
+          },
+          {
+            "name": "Encogimiento de hombros con barra",
+            "difficulty": "intermedio",
+            "steps": [
+              "Párese con los pies separados al ancho de los hombros sosteniendo la barra con ambas manos al frente, justo pasando el ancho de los hombros.",
+              "Inclínese hacia adelante a la altura de las caderas con una ligera flexión de las rodillas, manteniendo la espalda recta.",
+              "Engancha tus omóplatos, como si estuvieras tratando de tocarlos.",
+              "Suelta el encogimiento de hombros."
+            ],
+            "img": "encogimientohombrosbarra.png"
+          },
+          {
+            "name": "Encogimiento de hombros con mancuerna",
+            "difficulty": "principiante",
+            "steps": [
+              "Ponte de pie con dos mancuernas. Levanta los omóplatos. Dar un apretón de un segundo en la parte superior."
+            ],
+            "img": "encogimientohombrosmancuernap.png"
+          }
+        ]
+      },
+      {
+        "bodyPart": "Pecho",
+        "routine": [
+          {
+            "name": "Barra de press de banca",
+            "difficulty": "intermedio",
+            "steps": [
+              "Acuéstese en el banco con los pies en el suelo. Con los brazos rectos desmonta la barra.",
+              "Baje la barra a la mitad de su pecho",
+              "Levanta la barra hasta que hayas bloqueado los codos."
+            ],
+            "img": "barrapressbanca.png"
+          },
+          {
+            "name": "Lagartijas",
+            "difficulty": "intermedio",
+            "steps": [
+              "Coloque sus manos firmemente en el suelo, directamente debajo de los hombros.",
+              "Aplane la espalda para que todo el cuerpo quede recto y baje lentamente el cuerpo.",
+              "Lleve los omóplatos hacia atrás y hacia abajo, manteniendo los codos pegados al cuerpo.",
+              "Exhale mientras empuja hacia atrás a la posición inicial."
+            ],
+            "img": "pushups.jpg"
+          },
+          {
+            "name": "Press de banca inclinado con mancuernas",
+            "difficulty": "principiante",
+            "steps": [
+              "Acuéstese en el banco inclinado con los pies en el suelo. Levanta las mancuernas hasta que tengas los brazos rectos.",
+              "Baje las mancuernas a la mitad del pecho.",
+              "Levanta las mancuernas hasta que hayas bloqueado los codos."
+            ],
+            "img": "pressbancaincmancuerna.png"
+          }
+        ]
+      },
+      {
+        "bodyPart": "Abdomen",
+        "routine": [
+          {
+            "name": "Plancha",
+            "difficulty": "principiante",
+            "steps": [
+              "Comience en una posición de rodillas con las manos plantadas en el suelo.",
+              "Levanta las rodillas del suelo. Manténgase en esta posición con la espalda plana."
+            ],
+            "img": "..img/plancha.jpg"
+          },
+          {
+            "name": "Abdominales con barra",
+            "difficulty": "intermedio",
+            "steps": [
+              "Sostenga la barra con un agarre ligeramente más ancho que el ancho de los hombros. Empuje la barra hacia el techo y mantenga la extensión del codo.",
+              "Flexiona tus abdominales y siéntate. Apunta a que tu torso quede vertical mientras mantienes la barra sobre tu cabeza."
+            ],
+            "img": "abdominalesbarra.jpg"
+          },
+          {
+            "name": "Crunch en polea alta",
+            "difficulty": "intermedio",
+            "steps": [
+              "Use un accesorio de doble asa y coloque el cable hasta la parte superior.",
+              "Aléjese de la torre del cable y camine unos pasos hacia adelante.",
+              "Empuje las caderas hacia atrás y flexione los abdominales.",
+              "Regrese a la posición inicial de pie y repita."
+            ],
+            "img": "crunchpoleaalta.jpg"
+          }
+        ]
+      },
+      {
+        "bodyPart": "Oblicuo",
+        "routine": [
+          {
+            "name": "Plancha de lado",
+            "difficulty": "intermedio",
+            "steps": [
+              "Presiona tu mano contra el suelo y levanta tu cadera del suelo.",
+              "Abre tu pecho y mantén esta posición durante el tiempo asignado."
+            ],
+            "img": "planchadelado.png"
+          },
+          {
+            "name": "Giros rusos con mancuerna",
+            "difficulty": "intermedio",
+            "steps": [
+              "Siéntate en el suelo y flexiona las rodillas y las caderas en un ángulo de 90 grados.",
+              "Tus pies deben estar suspendidos del suelo. (Si eso es demasiado difícil, comience con los tacones en el suelo)",
+              "Gira la parte superior de la columna para activar los oblicuos."
+            ],
+            "img": "girosrusos.jpg"
+          },
+          {
+            "name": "Giros rusos con mancuerna",
+            "difficulty": "intermedio",
+            "steps": [
+              "Siéntate en el suelo y flexiona las rodillas y las caderas en un ángulo de 90 grados.",
+              "Tus pies deben estar suspendidos del suelo. (Si eso es demasiado difícil, comience con los tacones en el suelo)",
+              "Gira la parte superior de la columna para activar los oblicuos."
+            ],
+            "img": "girosrusos2.jpg"
+          }
+        ]
+      },
+      
+      {
+        "bodyPart": "Cuadricep",
+        "routine": [
+          {
+            "name": "Extensión de la pierna con máquina",
+            "difficulty": "principiante",
+            "steps": [
+              "Siéntese en la máquina con la espalda contra el cojín y ajuste la máquina que está utilizando para que sus rodillas estén en un ángulo de 90 grados en la posición inicial.",
+              "Levante el peso extendiendo las rodillas hacia afuera, luego baje la pierna a la posición inicial. Ambos movimientos deben hacerse en un movimiento lento y controlado."
+            ],
+            "img": "extensionpiernamaquina.png"
+          },
+          {
+            "name": "Sentadilla con barra",
+            "difficulty": "experto",
+            "steps": [
+              "Párese con los pies separados al ancho de los hombros. Mantenga el arco natural de la espalda, apretando los omoplatos y elevando el pecho.",
+              "Grip the bar across your shoulders and support it on your upper back. Unwrack the bar by straightening your legs, and take a step back.",
+              "Doble las rodillas mientras baja el peso sin alterar la forma de su espalda hasta que sus caderas estén debajo de sus rodillas.",
+              "Levanta la barra de regreso a la posición inicial, levanta con las piernas y exhala en la parte superior."
+            ],
+            "img": "sentadillabarra.png"
+          },
+          {
+            "name": "Sentadilla con barra",
+            "difficulty": "experto",
+            "steps": [
+              "Párese con los pies separados al ancho de los hombros. Mantenga el arco natural de la espalda, apretando los omoplatos y elevando el pecho.",
+              "Grip the bar across your shoulders and support it on your upper back. Unwrack the bar by straightening your legs, and take a step back.",
+              "Doble las rodillas mientras baja el peso sin alterar la forma de su espalda hasta que sus caderas estén debajo de sus rodillas.",
+              "Levanta la barra de regreso a la posición inicial, levanta con las piernas y exhala en la parte superior."
+            ],
+            "img": "sentadillabarra2.png"
+          }
+        ]
+      },
+      {
+        "bodyPart": "Pantorrilla",
+        "routine": [
+          {
+            "name": "Elevaciones de pantorrillas sentado en máquina",
+            "difficulty": "principiante",
+            "steps": [
+              "Póngase cómodo en la máquina, luego coloque la parte inferior de los muslos debajo de la palanca acolchada. Coloque los dedos de los pies y las puntas de los pies sobre los soportes para los pies.",
+              "Evite que el peso se deslice hacia adelante agarrando las manijas y suelte la barra de seguridad. Baje el peso hasta que sus pantorrillas estén extendidas.",
+              "Empuje los talones hacia arriba para levantar la palanca acolchada y mantener la posición contraída, luego baje lentamente hasta la posición inicial. Repetir."
+            ],
+            "img": "elevacionespantorrillasentadomaquina.jpg"
+          },
+          {
+            "name": "Elevaciones de pantorrillas con barra",
+            "difficulty": "intermedio",
+            "steps": [
+              "Coloca la barra en tu espalda",
+              "Empezar con los pies apoyados en el suelo",
+              "Extienda los talones hacia arriba mientras mantiene las rodillas inmóviles y haga una pausa en la posición contraída.",
+              "Regresa lentamente a la posición inicial."
+            ],
+            "img": "elevacionespantorrillabarra.jpg"
+          },
+          {
+            "name": "Elevaciones de pantorrillas con barra",
+            "difficulty": "intermedio",
+            "steps": [
+              "Coloca la barra en tu espalda",
+              "Empezar con los pies apoyados en el suelo",
+              "Extienda los talones hacia arriba mientras mantiene las rodillas inmóviles y haga una pausa en la posición contraída.",
+              "Regresa lentamente a la posición inicial."
+            ],
+            "img": "elevacionespantorrillabarra2.jpg"
+          }
+        ]
+      },
+
+
+
+      {
+        "bodyPart": "gluteo",
+        "routine": [
+          {
+            "name": "Sentadilla con barra",
+            "difficulty": "experto",
+            "steps": [
+              "Párese con los pies separados al ancho de los hombros. Mantenga el arco natural de la espalda, apretando los omoplatos y elevando el pecho.",
+              "Agarra la barra sobre tus hombros y apóyala en la parte superior de tu espalda. Desenrolla la barra estirando las piernas y da un paso atrás.",
+              "Doble las rodillas mientras baja el peso sin alterar la forma de su espalda hasta que sus caderas estén debajo de sus rodillas.",
+              "Levanta la barra de regreso a la posición inicial, levanta con las piernas y exhala en la parte superior."
+            ],
+            "img": "sentadillabarra3.png"
+          },
+          {
+            "name": "Peso muerto",
+            "difficulty": "intermedio",
+            "steps": [
+              "Párese con una barra en las espinillas con los pies separados al ancho de los hombros.",
+              "Inclínese hacia adelante a la altura de las caderas y mantenga las rodillas lo más extendidas posible.",
+              "Toma la barra y luego extiende las caderas mientras mantienes la espalda recta.",
+              "Desde la posición de pie, baje el peso de manera controlada.",
+              "Puede bajar el peso al piso o antes de tocar el piso, dependiendo de su movilidad."
+            ],
+            "img": "pesomuerto.jpg"
+          },
+          {
+            "name": "Peso muerto",
+            "difficulty": "intermedio",
+            "steps": [
+              "Párese con una barra en las espinillas con los pies separados al ancho de los hombros.",
+              "Inclínese hacia adelante a la altura de las caderas y mantenga las rodillas lo más extendidas posible.",
+              "Toma la barra y luego extiende las caderas mientras mantienes la espalda recta.",
+              "Desde la posición de pie, baje el peso de manera controlada.",
+              "Puede bajar el peso al piso o antes de tocar el piso, dependiendo de su movilidad."
+            ],
+            "img": "pesomuerto2.jpg"
+          }
+        ]
+      },
+      {
+        "bodyPart": "Lateral",
+        "routine": [
+          {
+            "name": "Lagartijas",
+            "difficulty": "intermedio",
+            "steps": [
+              "Coloque sus manos firmemente en el suelo, directamente debajo de los hombros.",
+              "Aplane la espalda para que todo el cuerpo quede recto y baje lentamente el cuerpo.",
+              "Lleve los omóplatos hacia atrás y hacia abajo, manteniendo los codos pegados al cuerpo.",
+              "Exhale mientras empuja hacia atrás a la posición inicial."
+            ],
+            "img": "pushups2.jpg"
+          },
+          {
+            "name": "Chin Ups",
+            "difficulty": "intermedio",
+            "steps": [
+              "Agarre la barra separada a la anchura de los hombros con un agarre en posición supina (las palmas hacia usted)",
+              "Con el cuerpo colgando y los brazos completamente extendidos, levántese hasta que la barbilla pase la barra..",
+              "Vuelva lentamente a la posición inicial. Repetir."
+            ],
+            "img":"chinups3.jpg"
+          },
+          {
+            "name": "Lagartijas",
+            "difficulty": "intermedio",
+            "steps": [
+              "Coloque sus manos firmemente en el suelo, directamente debajo de los hombros.",
+              "Aplane la espalda para que todo el cuerpo quede recto y baje lentamente el cuerpo.",
+              "Lleve los omóplatos hacia atrás y hacia abajo, manteniendo los codos pegados al cuerpo.",
+              "Exhale mientras empuja hacia atrás a la posición inicial."
+            ],
+            "img": "pushups3.jpg"
+          },
+          {
+            "name": "Chin Ups",
+            "difficulty": "intermedio",
+            "steps": [
+              "Agarre la barra separada a la anchura de los hombros con un agarre en posición supina (las palmas hacia usted)",
+              "Con el cuerpo colgando y los brazos completamente extendidos, levántese hasta que la barbilla pase la barra..",
+              "Vuelva lentamente a la posición inicial. Repetir."
+            ],
+            "img":"chinups4.jpg"
+          }
+        ]
+      },
+      {
+        "bodyPart": "Espalda Baja",
+        "routine": [
+          {
+            "name": "Peso muerto",
+            "difficulty": "intermedio",
+            "steps": [
+              "Párese con una barra en las espinillas con los pies separados al ancho de los hombros.",
+              "Inclínese hacia adelante a la altura de las caderas y mantenga las rodillas lo más extendidas posible.",
+              "Toma la barra y luego extiende las caderas mientras mantienes la espalda recta.",
+              "Desde la posición de pie, baje el peso de manera controlada.",
+              "Puede bajar el peso al piso o antes de tocar el piso, dependiendo de su movilidad."
+            ],
+            "img": "pesomuerto3.jpg"
+          },
+          {
+            "name": "extension de espalda de 45 grados",
+            "difficulty": "intermedio",
+            "steps": [
+              "Coloque los muslos sobre el acolchado y enganche los pies en los soportes de la plataforma.",
+              "Manteniendo la espalda recta, doble lentamente la cintura hasta que las piernas y la espalda formen un ángulo de 45°.",
+              "Lentamente levante su cuerpo a la posición inicial."
+            ],
+            "img": "extensionespalda45.png"
+          },
+          {
+            "name": "extension de espalda de 45 grados",
+            "difficulty": "intermedio",
+            "steps": [
+              "Coloque los muslos sobre el acolchado y enganche los pies en los soportes de la plataforma.",
+              "Manteniendo la espalda recta, doble lentamente la cintura hasta que las piernas y la espalda formen un ángulo de 45°.",
+              "Lentamente levante su cuerpo a la posición inicial."
+            ],
+            "img": "extensionespalda45-2.png"
+          }
+        ]
+      },
+      {
+        "bodyPart": "Trapecio Espalda",
+        "routine": [
+          {
+            "name": "Pull ups",
+            "difficulty": "intermedio",
+            "steps": [
+              "Sujete la barra con un agarre en pronación, con los brazos y los hombros completamente extendidos.",
+              "Tire de su cuerpo hacia arriba hasta que su barbilla esté por encima de la barra.",
+              "Baje su cuerpo de nuevo a la posición inicial."
+            ],
+            "img": "pullups.jpg"
+          },
+          {
+            "name": "Remo con mancuernas unilateral",
+            "difficulty": "Principiante",
+            "steps": [
+              "Apoye su brazo libre contra algo estable (banco, caja). Cambie su postura para que su pierna del lado de su brazo de trabajo quede hacia atrás",
+              "Intenta que tu torso quede paralelo al suelo. Eso ampliará tu rango de movimiento",
+              "Deja que tu brazo cuelgue libremente y luego tira del codo hacia atrás. Imagina que tienes una pelota de tenis en la axila y apriétala en cada repetición"
+            ],
+            "img":"remomancuernauni3.png"
+          },
+          {
+            "name": "Remo con mancuernas unilateral",
+            "difficulty": "Principiante",
+            "steps": [
+              "Apoye su brazo libre contra algo estable (banco, caja). Cambie su postura para que su pierna del lado de su brazo de trabajo quede hacia atrás",
+              "Intenta que tu torso quede paralelo al suelo. Eso ampliará tu rango de movimiento",
+              "Deja que tu brazo cuelgue libremente y luego tira del codo hacia atrás. Imagina que tienes una pelota de tenis en la axila y apriétala en cada repetición"
+            ],
+            "img":"remomancuernauni2.png"
+          }
+        ]
+      },
+      {
+        "bodyPart": "Tricep",
+        "routine": [
+          {
+            "name": "Extension de triceps con polea",
+            "difficulty": "principiante",
+            "steps": [
+              "Puede usar cualquier archivo adjunto para esto. El cable debe colocarse completamente en la parte superior de la máquina.",
+              "Asegúrate de mantener la parte superior del brazo pegada a tu costado. Extiende tus codos hasta que sientas que tus tríceps se contraen."
+            ],
+            "img": "extensiontricepspolea.jpg"
+          },
+          {
+            "name": "Press de banca con agarre cerrado con barra",
+            "difficulty": "intermedio",
+            "steps": [
+              "Coloca la barra en tu espalda",
+              "Empezar con los pies apoyados en el suelo",
+              "Extienda los talones hacia arriba mientras mantiene las rodillas inmóviles y haga una pausa en la posición contraída.",
+              "Regresa lentamente a la posición inicial."
+            ],
+            "img": "pressbancacerradobarra.jpg"
+          },
+          {
+            "name": "Press de banca con agarre cerrado con barra",
+            "difficulty": "intermedio",
+            "steps": [
+              "Coloca la barra en tu espalda",
+              "Empezar con los pies apoyados en el suelo",
+              "Extienda los talones hacia arriba mientras mantiene las rodillas inmóviles y haga una pausa en la posición contraída.",
+              "Regresa lentamente a la posición inicial."
+            ],
+            "img": "pressbancacerradobarra2.jpg"
+          }
+        ]
+      },
+      {
+        "bodyPart": "isquiotibiales",
+        "routine": [
+          {
+            "name": "Levantamiento de gluteos",
+            "difficulty": "intermedio",
+            "steps": [
+              "Colóquese en una máquina de levantamiento de glúteos o encuentre un sustituto adecuado como una pelota de estabilidad o un banco.",
+              "Ajuste el equipo para que se ajuste a su cuerpo colocando el reposapiés a una altura adecuada y asegurándose de que sus pies estén bien sujetos.",
+              "Comience el movimiento bajando lentamente la parte superior del cuerpo hacia el suelo mientras mantiene el torso y las piernas alineados.",
+              "Una vez que llegue al punto más bajo donde su cuerpo esté paralelo al suelo o tan lejos como pueda llegar cómodamente, haga una breve pausa.",
+              "Involucra tus glúteos e isquiotibiales nuevamente mientras te empujas hacia atrás hasta la posición inicial, usando la fuerza de tus músculos de la cadena posterior."
+            ],
+            "img": "levantamientogluteos.png"
+          },
+          {
+            "name": "Curl de isquiotibiales en máquina",
+            "difficulty": "principiante",
+            "steps": [
+              "Acuéstese en la máquina, colocando las piernas debajo de la palanca acolchada. Coloque las piernas de modo que la palanca acolchada quede debajo de los músculos de las pantorrillas.",
+              "Apóyese agarrando las manijas laterales de la máquina y levante lentamente el peso con las piernas, con los dedos de los pies rectos.",
+              "Haga una pausa en el ápice del movimiento, luego regrese lentamente a la posición inicial."
+            ],
+            "img": "curlisquiotibialesmaquina.jpg"
+          },
+          {
+            "name": "Good morning con barra baja",
+            "difficulty": "experto",
+            "steps": [
+              "Coloque la barra entre los trapecios y los deltoides posteriores. Tire de los omóplatos hacia atrás para darle a la barra un estante para sentarse.",
+              "Empuja las caderas hacia atrás hasta que sientas un estiramiento en los isquiotibiales. Esto significa que se está acercando al final de su rango de movimiento sin redondear la columna.",
+              "Cuando sienta el estiramiento, empuje las caderas hacia adelante hasta que esté de pie."
+            ],
+            "img": "goodmorning.jpg"
+          }
+        ]
+      }
+    ]
+}
+  
